@@ -5,9 +5,6 @@
 - 🌱 What am I currently doing 
   - Studying on LTH
   - Working part time at [Recruto](https://www.recruto.se)
-- 💞️ I’m looking to collaborate on 
-  - Unity
-  - Graphic rendering
 - 📫 How to reach me 
   - Email: hugo.e.persson@gmail.com
 
