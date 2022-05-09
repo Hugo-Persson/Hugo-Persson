@@ -3,7 +3,7 @@
   - Web development
   - Game development
 - 🌱 What am I currently doing 
-  - Studying on LTH
+  - Studying at LTH
   - Working part time at [Recruto](https://www.recruto.se)
 - 📫 How to reach me 
   - Email: hugo.e.persson@gmail.com
