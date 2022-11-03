@@ -1,10 +1,9 @@
 # 💫 About Me:
-- 🔭 I’m currently working on
-- 👯 I’m looking to collaborate on
+- 🔭 I’m currently working parttime @RecrutoAB as a fullstack enginner
+- 📚 I’m studying Computer Science and Engineering @LTH
 - 🤝 I’m looking for help with
-- 🌱 I’m currently learning
-- 💬 Ask me about
-- ⚡ Fun fact
+- 💻 I’m currently solving Kattis problems in my sparetime
+- 💬 Ask me about anything Web technologies and web system architecture
 
 
 ## 🌐 Socials:
