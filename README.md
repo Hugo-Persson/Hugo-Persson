@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **hugo.e.persson@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!Au5TZ6qJyJ7Kg4kKuZRojAfeCj0WGw?e=Kcn49A](https://1drv.ms/b/s!Au5TZ6qJyJ7Kg4kKuZRojAfeCj0WGw?e=Kcn49A)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
