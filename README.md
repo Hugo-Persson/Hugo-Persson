@@ -1,23 +1,42 @@
-<h1 align="center">Hi 👋, I'm Hugo</h1>
-<h3 align="center">A passionate fullstack developer and Computer Science student</h3>
+<h1 align="center">Hugo Persson</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugo-persson&label=Profile%20views&color=0e75b6&style=flat" alt="hugo-persson" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/Hugo-Persson](https://github.com/Hugo-Persson)
-
-- 📫 How to reach me **hugo.e.persson@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hugo-persson-3ab782211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-persson-3ab782211" height="30" width="40" /></a>
+<p align="center">
+  <b>CTO&nbsp;@&nbsp;<a href="https://sinehealth.com">Sine&nbsp;Health</a></b>
+  &nbsp;·&nbsp; Lund, Sweden
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+<p align="center">
+  <i>Turning the smartphones and wearables patients already own<br/>into clinical-grade monitors for movement disorders.</i>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugo-persson&show_icons=true&locale=en&layout=compact" alt="hugo-persson" /></p>
+<p align="center">
+  <a href="https://sinehealth.com"><img src="https://img.shields.io/badge/sinehealth.com-F97316?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nd2hpdGUnIGQ9J00xMiAwQzUuMzczIDAgMCA1LjM3MyAwIDEyczUuMzczIDEyIDEyIDEyIDEyLTUuMzczIDEyLTEyUzE4LjYyNyAwIDEyIDB6bTcuOTM4IDdoLTMuMmExNS43IDE1LjcgMCAwIDAtMS41NC0zLjlBMTAuMDMgMTAuMDMgMCAwIDEgMTkuOTM4IDd6TTEyIDIuMDRjLjgzIDEuMiAxLjQ4IDIuNTMgMS45MSAzLjk2aC0zLjgyYy40My0xLjQzIDEuMDgtMi43NiAxLjkxLTMuOTZ6TTIuMjYgMTRBOC4wMyA4LjAzIDAgMCAxIDIgMTJjMC0uNjkuMDktMS4zNi4yNi0yaDMuNjZhMTYuNiAxNi42IDAgMCAwIDAgNEgyLjI2em0uODIgMmgzLjJjLjM0IDEuMzYuODUgMi42NyAxLjU0IDMuOUExMC4wMyAxMC4wMyAwIDAgMSAzLjA4IDE2em0zLjItOWgtMy4yYTEwLjAzIDEwLjAzIDAgMCAxIDQuNzQtMy45QTE1LjcgMTUuNyAwIDAgMCA2LjI4IDd6TTEyIDIxLjk2Yy0uODMtMS4yLTEuNDgtMi41My0xLjkxLTMuOTZoMy44MmMtLjQzIDEuNDMtMS4wOCAyLjc2LTEuOTEgMy45NnpNMTQuMzQgMTZIOS42NmExNC42IDE0LjYgMCAwIDEgMC00aDQuNjhhMTQuNiAxNC42IDAgMCAxIDAgNHptLjI2IDMuOWMuNjktMS4yMyAxLjItMi41NCAxLjU0LTMuOWgzLjJhMTAuMDMgMTAuMDMgMCAwIDEtNC43NCAzLjl6TTE4LjA4IDE0YTE2LjYgMTYuNiAwIDAgMCAwLTRoMy42NmMuMTcuNjQuMjYgMS4zMS4yNiAycy0uMDkgMS4zNi0uMjYgMmgtMy42NnonLz48L3N2Zz4%3D&logoColor=white" alt="sinehealth.com" /></a>
+  <a href="https://linkedin.com/in/hugo-persson-3ab782211"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nd2hpdGUnIGQ9J00yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHonLz48L3N2Zz4%3D&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hugo.e.persson@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugo-persson&show_icons=true&locale=en" alt="hugo-persson" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugo-persson&" alt="hugo-persson" /></p>
+- 🧠 &nbsp;Building **Sine Monitoring** — continuous, objective symptom data in place of brief clinic snapshots. More at **[sinehealth.com](https://sinehealth.com)**
+- 🦀 &nbsp;Off-hours: Rust CLIs, native Swift apps, and a homelab that is far more over-engineered than it needs to be
+- 📫 &nbsp;**hugo.e.persson@gmail.com**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-0B1220?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-0B1220?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Swift-0B1220?style=flat-square&logo=swift&logoColor=F05138" alt="Swift" />
+  <img src="https://img.shields.io/badge/Rust-0B1220?style=flat-square&logo=rust&logoColor=DEA584" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-0B1220?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Hugo-Persson&theme=transparent&hide_border=true&border_radius=8&ring=F97316&fire=F97316&currStreakLabel=F97316&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=E6EDF3&dates=8B949E" />
+    <img src="https://streak-stats.demolab.com?user=Hugo-Persson&theme=default&hide_border=true&border_radius=8&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="GitHub streak stats for Hugo-Persson" />
+  </picture>
+</p>
